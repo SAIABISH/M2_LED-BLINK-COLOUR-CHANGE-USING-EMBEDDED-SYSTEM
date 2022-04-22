@@ -1,4 +1,4 @@
-# OUTPUT
+# SIMULATION 
 
 ![sim_result](https://user-images.githubusercontent.com/101106142/164708675-5d6157dc-f244-4853-aac8-950fc360b76b.jpeg)
 
